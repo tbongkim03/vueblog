@@ -1,7 +1,4 @@
-# START DAY
-25.04.23
-
-# blog
+# blog2
 
 This template should help get you started developing with Vue 3 in Vite.
 
